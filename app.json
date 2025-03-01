@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "sonnen-battery-monitor",
-    "slug": "sonnen-battery-monitor",
+    "name": "battery-monitor",
+    "slug": "battery-monitor",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
