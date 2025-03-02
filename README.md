@@ -19,3 +19,7 @@ Before you begin, ensure you have met the following requirements:
 
 - Android: Open the Expo app on your device, scan the QR code from the terminal or browser, and the app will open on your device.
 - iOS: For iOS devices, open the Expo Go app, scan the QR code, and it will load the app.
+
+## Run tests
+
+- npm run tests
